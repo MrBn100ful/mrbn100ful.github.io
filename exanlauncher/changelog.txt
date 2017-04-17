@@ -1,6 +1,6 @@
 V2.0.0
 - Add remove only one icons.
-- Add top and down position for exanlauncher.
+- Fix size and quality of the icons.
 - Add update system ask before update.
 - Fix bug with drag and drop icons.
 - Remanage option menu. 
